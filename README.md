@@ -10,7 +10,7 @@ As a BI Analyst of Bank Muamalat, I have 5 challenges to finish:
 5. Gather insights and recommendation from the analysis and visualization.
 
 Tools:
-1. Google BigQuery SQL
+1. MySQL
 2. Microsoft Access
 3. Microsoft Excel
 
