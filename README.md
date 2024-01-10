@@ -22,7 +22,7 @@ Tools:
 
 ## 2. Membuat Entity Relationship Diagram dari dataset.
 <p align="center">
-  <img src= "https://github.com/jedijm/VIX-Bank_Muamalat/blob/main/asset/ERD.jpeg"> <br>
+  <img src= "Asset/ERD.png"> <br>
 Fig 1. Entity Relationship Diagram
 </p>
 
