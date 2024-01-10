@@ -42,7 +42,7 @@ Fig 3. Query Master Table
 [Check the interactive dashboard here](https://docs.google.com/spreadsheets/d/1YCiBykw85I99LjrPL-4u3HFHO70uTNmT/edit?usp=sharing&ouid=102065389754958881026&rtpof=true&sd=true)
 
 <p align="center">
-  <img src= "Asset/dashboard.PNG"> <br>
+  <img src= "Asset/dashboard.png"> <br>
 Fig 4. Dashboard Sales PT. Sejahtera Bersama
 </p>
 
