@@ -28,22 +28,22 @@ Fig 1. Entity Relationship Diagram
 
 ## 3. Membuat master table dari dataset.
 <p align="center">
-  <img src= "https://github.com/jedijm/VIX-Bank_Muamalat/blob/main/asset/Master_Table.png"> <br>
+  <img src= "Asset/Master Table.PNG"> <br>
 Fig 2. Master Table
 </p>
 
 **The Query :**
 <p align="center">
-  <img src= "https://github.com/jedijm/VIX-Bank_Muamalat/blob/main/asset/Query.png"> <br>
-Fig 3. The Query
+  <img src= "Asset/query master table.PNG"> <br>
+Fig 3. Query Master Table
 </p>
 
 ## 4. Dashboard Sales.
-[Check the interactive dashboard here](https://lookerstudio.google.com/reporting/c238a812-74d5-4904-b050-602dc0bb8161)
+[Check the interactive dashboard here](https://docs.google.com/spreadsheets/d/1YCiBykw85I99LjrPL-4u3HFHO70uTNmT/edit?usp=sharing&ouid=102065389754958881026&rtpof=true&sd=true)
 
 <p align="center">
-  <img src= "https://github.com/jedijm/VIX-Bank_Muamalat/blob/main/asset/dashboard.png"> <br>
-Fig 4. PT. Sejahtera Bersama Sales Performance Dashboard
+  <img src= "Asset/dashboard.PNG"> <br>
+Fig 4. Dashboard Sales PT. Sejahtera Bersama
 </p>
 
 ## 5. Rekomendasi berdasarkan dashboard.
